@@ -1,2 +1,2 @@
 # HazeRemoval
-暗通道去雾算法
+CV课程大作业，暗通道去雾论文复现，Python实现
